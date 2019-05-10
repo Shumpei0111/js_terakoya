@@ -28,4 +28,4 @@ const checkSome = check => {
     return "not good"
 };
 
-checkSome(true);
+checkSome(false);
