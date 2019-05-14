@@ -11,9 +11,9 @@
 import { getType } from "typechecker";
 
 describe("type", () => {
-  it("string", () => {
-    const string = 1;
-    const res = getType(string);
-    expect(res).toEqual();
+  it("number", () => {
+    const number = 1;
+    const res = getType(number);
+    expect(res).toEqual("number");
   });
 });
