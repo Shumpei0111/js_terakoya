@@ -1,4 +1,4 @@
-// day13はcodesandboxに記述のためこのコードだと普通に読み込めません
+// day14はcodesandboxに記述のためこのコードだと普通に読み込めません
 // 課題：https://codesandbox.io/s/oq8v130w4y
 
 // ライブラリ：typecheckerを読み込む
